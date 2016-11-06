@@ -1,0 +1,76 @@
+h1{text-indent: 80;
+font-family: bookantiqua;}
+
+h3 {text-align: center;
+font-family: helvetica;}
+
+h4{font-family:bookantiqua;}
+
+p{font-family: centurygothic;}
+
+ul{font-family: centurygothic;}
+
+img
+{display:table-cell; 
+	vertical-align:middle;
+	margin:auto;
+}
+.img-circle{border-radius:70%;}
+
+.card-footer{text-align: center;}
+
+.about {
+  font-size: 14px;
+  margin-bottom: 5px;
+  padding-left: 22px;
+  position: relative;
+}
+
+
+.about .fa {
+  font-size: 14px;
+  left: 0;
+  line-height: 21px;
+  margin-bottom: 5px;
+  opacity: .5;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 16px;
+}
+
+.navbar{
+  background: #231E22;
+}
+
+.navbar-brand{font-family: bookantiqua;
+font-size: 250%;}
+
+/* index.html stuff */
+
+.jumbotron {
+  background-image: url("../img/view2.jpeg");
+  background-size: cover;
+  color: white;
+}
+
+.btn-primary {
+  background: #453D44;
+  border-color: #686367;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #7FCDE7;
+  border-color: #104F64;
+}
+
+.nav-link{background: #231E22;}
+
+.nav-link:hover,
+.nav-link:active,
+.nav-link:focus,
+.nav-link:active:focus{
+  background:#94D8D3 !important;}
